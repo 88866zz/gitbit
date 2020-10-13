@@ -1,2 +1,2 @@
-s
-s
+form quan ly sinh vien 
+c#
